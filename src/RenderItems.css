@@ -1,0 +1,13 @@
+.item-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    height: 35px;
+    width: 50px;
+    color: rgb(240, 12, 12);
+    border-radius: 25%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
